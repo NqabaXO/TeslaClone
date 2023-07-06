@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  font-family: "Rubik", sans-serif;
+  box-sizing: border-box;
+  padding: 0; 
+  color: #393c41;
+  overflow-x: hidden;
+}
+
+body{
+  width: 100%;
+}
+
+a{
+  text-decoration:none;
+}
